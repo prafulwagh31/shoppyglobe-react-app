@@ -18,5 +18,3 @@ https://dummyjson.com/products
     4. npm run dev
 
 # Deployment URL:-
-
-https://p-wagh-online-library-app-react.netlify.app/
