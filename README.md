@@ -1,8 +1,22 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Shoppy Globe Ecommerce App
 
-Currently, two official plugins are available:
+# Description:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a shoppy globe ecommerce application for managing product and add product to cart. It includes component like product list using product dummy api, view product details, and use react redux for product management, tailwind css with responsive made with React + Vite.
+
+# Product Dummy Json API URL:-
+
+https://dummyjson.com/products
+
+# Clone in Local:
+
+    1. git clone https://github.com/prafulwagh31/shoppyglobe-react-app.git
+    2. cd "folder-name"
+    3. npm install
+    4. npm run dev
+
+# Deployment URL:-
+
+https://p-wagh-online-library-app-react.netlify.app/
